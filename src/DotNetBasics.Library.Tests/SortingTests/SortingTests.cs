@@ -2,7 +2,6 @@
  * SortingTests.cs
  * 
  * Author:      Denis Belikov (https://github.com/belikovd)
- * License:     See LICENSE.txt in the project root for more information.
  * 
  */
 using DotNetBasics.Common.Interfaces;
@@ -66,7 +65,9 @@ namespace DotNetBasics.Library.Tests.SortingTests
             {
                 new BubbleSortingAlgorithm(),
                 new SelectionSortingtAlgorithm(),
-                new InsertionSortingAlgorithm()
+                new InsertionSortingAlgorithm(),
+                new ShellSortingAlgorithm(),
+                new MergeSortingAlgorithm()
             });
         }
         //

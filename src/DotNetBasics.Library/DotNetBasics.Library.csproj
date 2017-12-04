@@ -43,7 +43,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sorting\BubbleSortingAlgorithm.cs" />
     <Compile Include="Sorting\InsertionSortingAlgorithm.cs" />
+    <Compile Include="Sorting\MergeSortingAlgorithm.cs" />
     <Compile Include="Sorting\SelectionSortingtAlgorithm.cs" />
+    <Compile Include="Sorting\ShellSortingAlgorithm.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DotNetBasics.Common\DotNetBasics.Common.csproj">

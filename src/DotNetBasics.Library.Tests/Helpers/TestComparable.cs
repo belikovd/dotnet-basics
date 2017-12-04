@@ -2,7 +2,6 @@
  * TestComparable.cs
  * 
  * Author:      Denis Belikov (https://github.com/belikovd)
- * License:     See LICENSE.txt in the project root for more information.
  * 
  */
 using System;
