@@ -44,7 +44,7 @@
     <Compile Include="Sorting\BubbleSortingAlgorithm.cs" />
     <Compile Include="Sorting\InsertionSortingAlgorithm.cs" />
     <Compile Include="Sorting\MergeSortingAlgorithm.cs" />
-    <Compile Include="Sorting\SelectionSortingtAlgorithm.cs" />
+    <Compile Include="Sorting\SelectionSortingAlgorithm.cs" />
     <Compile Include="Sorting\ShellSortingAlgorithm.cs" />
   </ItemGroup>
   <ItemGroup>

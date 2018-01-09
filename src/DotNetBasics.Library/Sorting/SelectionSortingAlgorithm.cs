@@ -17,7 +17,7 @@ namespace DotNetBasics.Library.Sorting
     /// <summary>
     ///     Provides implementation of <see cref="ISortingAlgorithm"/> for Selection Sorting.
     /// </summary>
-    public class SelectionSortingtAlgorithm : ISortingAlgorithm
+    public class SelectionSortingAlgorithm : ISortingAlgorithm
     {
         #region ISortingAlgorithm
 

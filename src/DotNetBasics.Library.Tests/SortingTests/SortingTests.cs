@@ -64,7 +64,7 @@ namespace DotNetBasics.Library.Tests.SortingTests
             _algorithms.AddRange(new ISortingAlgorithm[]
             {
                 new BubbleSortingAlgorithm(),
-                new SelectionSortingtAlgorithm(),
+                new SelectionSortingAlgorithm(),
                 new InsertionSortingAlgorithm(),
                 new ShellSortingAlgorithm(),
                 new MergeSortingAlgorithm()
